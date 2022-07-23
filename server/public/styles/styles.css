@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(49, 63, 103, 0.969);
+}
+
+.content {
+    display: flex;
+    flex-direction: wrap;
+}
+
+.Uinputs {
+    margin-left: 10px;
+}

@@ -2,11 +2,11 @@ body {
     background-color: rgba(49, 63, 103, 0.969);
 }
 
-.content {
+.input-content {
     display: flex;
     flex-direction: wrap;
 }
 
-.Uinputs {
+.U-inputs {
     margin-left: 10px;
 }
